@@ -7,7 +7,6 @@ The sliding window technique is a method for solving problems that involve array
 
 - **Window Size**: The number of elements in the window.
 - **Window Position**: The current position of the window in the array.
-
 ## Common Problems
 
 1. **Maximum Sum Subarray of Size K**: Find the maximum sum of any contiguous subarray of size `k`.
