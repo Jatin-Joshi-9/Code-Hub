@@ -12,7 +12,6 @@ Welcome to **Code-Hub**! This personal repository is my space for exploring comp
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -27,10 +26,6 @@ To explore the repository, simply navigate through the folders. Feel free to tac
 ## Contributing
 
 This repository is a personal project, but if you have suggestions or improvements, feel free to reach out!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
